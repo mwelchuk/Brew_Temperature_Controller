@@ -1,4 +1,4 @@
-18177776750695405
+18168213501596416
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -51211,13 +51211,6 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
-Fuse_Block
-MCCQ-122
-
-
-0
-4
-2
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -56685,41 +56678,6 @@ net tie
 0
 4
 4
-Nokia
-Nokia_5110-3310_LCD
-
-
-0
-15
-9
-Nokia
-Nokia_5110-3310_LCD-B.Paste
-
-
-0
-15
-9
-Nokia
-Nokia_5110-3310_LCD-F.Paste
-
-
-0
-15
-9
-Nokia
-Nokia_5110-3310_LCD-F.Paste-B.Paste
-
-
-0
-15
-9
-Nokia
-Nokia_5110_Module
-
-
-0
-8
-8
 OptoDevice
 ADNS-9800
 Laser Gaming Sensor ADNS-9800
