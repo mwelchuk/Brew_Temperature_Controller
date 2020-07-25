@@ -1,5 +1,7 @@
 # Brew Temperature Controller
 
+![Brew Temperature Controller](BTC.jpg)
+
 This project is a small heater controller that I have made to enable a few spare 3D printer parts I had lying arround to be used to control the temperature of my beer when brewing. I had been using a full RAMPS1.4 controller with a 4 line display, but this was very bulky. Rather than the Arduino Mega utilised with the RAMPS board, this uses an Arduino Uno, which is much smaller.
 
 The device is fully powered from the PSU that's needed to supply power to the heater (this can not be pulled from the Arduino). If plugged in via USB, the set temperature, power output (scaled from 0-255) and current temperature are logged approximately once a second.
